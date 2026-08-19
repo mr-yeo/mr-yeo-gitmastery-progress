@@ -266,41 +266,5 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787135114.668831,
-    "completed_at": 1787135120.70152,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787135251.805954,
-    "completed_at": 1787135257.889642,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787135476.534254,
-    "completed_at": 1787135482.681364,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787135526.951662,
-    "completed_at": 1787135533.188884,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
   }
 ]
